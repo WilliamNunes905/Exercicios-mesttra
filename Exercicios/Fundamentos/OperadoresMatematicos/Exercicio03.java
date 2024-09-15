@@ -1,4 +1,4 @@
-package Exercicios.Fundamentos;
+package Exercicios.Fundamentos.OperadoresMatematicos;
 
 /*
 Exercício 03: Faça um algoritmo para calcular quantas ferraduras são necessárias para equipar todos os cavalos comprados para um haras.

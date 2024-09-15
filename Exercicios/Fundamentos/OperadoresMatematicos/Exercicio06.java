@@ -1,4 +1,4 @@
-package Exercicios.Fundamentos;
+package Exercicios.Fundamentos.OperadoresMatematicos;
 
 import java.text.DecimalFormat;
 import java.util.Scanner;
