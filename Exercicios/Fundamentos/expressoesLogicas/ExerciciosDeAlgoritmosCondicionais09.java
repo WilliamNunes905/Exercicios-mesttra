@@ -8,6 +8,12 @@ Tendo como dados de entrada a altura e o sexo de uma pessoa, construa um algorit
 calcule seu peso ideal, utilizando as seguintes fórmulas:
 ● para homens: (72.7 * h) – 58;
 ● para mulheres: (62.1 * h) – 44.7.
+
+IMC em adultos Condição
+Abaixo de 18,5 Abaixo do peso
+Entre 18,5 e 25 Peso normal
+Entre 25 e 30 Acima do peso
+Acima de 30 obeso
  */
 
   public static void main(String[] args) {
