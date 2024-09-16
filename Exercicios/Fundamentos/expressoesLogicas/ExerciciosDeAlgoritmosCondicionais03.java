@@ -19,5 +19,6 @@ public class ExerciciosDeAlgoritmosCondicionais03 {
     } else {
       System.out.println("ÍMPAR");
     }
+    teclado.close();
   }
 }

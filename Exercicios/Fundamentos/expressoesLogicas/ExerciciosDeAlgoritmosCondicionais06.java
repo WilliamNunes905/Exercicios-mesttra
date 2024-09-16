@@ -19,5 +19,6 @@ public class ExerciciosDeAlgoritmosCondicionais06 {
     } else {
       System.out.println("Um dos boolean são FALSOS");
     }
+    teclado.close();
   }
 }

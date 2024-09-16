@@ -20,5 +20,6 @@ public class ExercicioDeAlgoritmosCondicionais01 {
     if (soma < c) {
       System.out.println("É menor");
     }
+    teclado.close();
   }
 }

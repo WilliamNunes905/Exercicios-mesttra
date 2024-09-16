@@ -24,5 +24,6 @@ atribuir o resultado para uma variável C e mostrar seu conteúdo na tela.
       c = a * b;
     }
     System.out.printf("Valor de C: %.2f%n", c);
+    teclado.close();
   }
 }

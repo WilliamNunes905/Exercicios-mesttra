@@ -30,5 +30,6 @@ public class ExerciciosDeAlgoritmosCondicionais02 {
       tempoCasado = teclado.nextInt();
       System.out.printf("%s tem %d anos de casada.", nome, tempoCasado);
     }
+    teclado.close();
   }
 }

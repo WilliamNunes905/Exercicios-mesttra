@@ -21,5 +21,6 @@ imprimindo o resultado.
       a *= 3;
       System.out.printf("Valor do triplo do numero: %d%n", a);
     }
+    teclado.close();
   }
 }
